@@ -3,11 +3,14 @@
     "PurchaseListID": "PL_20261117_001",
     "CreatedOn": "2026-11-17T03:54:21.8792914Z",
     "CreatedBy": "k64121947",
+    "EditedBy": "k64121947",
+    "EditedOn": "2026-11-17T03:55:39.6529752Z",
     "TotalEstimation": 3450.47,
     "Status": "Ready",
     "PlannedDate": "2026-11-16T00:00:00",
-    "Remarks": "For ADAU1707 Evaluation Kit (IC5 Programmer \u0026 Dev Board)",
-    "Deducted": true
+    "Remarks": "For ADAU1707 Evaluation Kit (IC5 Programmer \u0026 Dev Board)\r\n\r\n*Approved pls proceed for order....",
+    "Deducted": true,
+    "Approval": "Approved"
   },
   "materials": [
     {
